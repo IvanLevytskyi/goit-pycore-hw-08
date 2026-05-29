@@ -214,5 +214,7 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
+# Pickle
+addressbook.pkl
 # Streamlit
 .streamlit/secrets.toml
